@@ -4,8 +4,6 @@
 #define UPPER 300      /* upper limit */
 #define STEP  20       /* step size */
 
-
-
 /* print Fahrenheit-Celsius table for F = 0, 20, ..., 300 */
 
 int main()
