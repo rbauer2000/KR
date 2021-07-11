@@ -2,7 +2,7 @@
 
 /* copy input to output; 1st version */
 
-main()
+int main()
 {
     int c;
     
@@ -11,6 +11,5 @@ main()
     while (c = getchar() != EOF) 
     {
         printf("%d\n", c);
-        ;
     }
 }

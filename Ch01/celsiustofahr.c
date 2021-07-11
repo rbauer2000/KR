@@ -2,7 +2,7 @@
 
 /* print table of Celsius to Fahr starting at -20 and step 10 and max 150. */
 
-main()
+int main()
 {
     float fahr, celsius;
     int lower, upper, step;
